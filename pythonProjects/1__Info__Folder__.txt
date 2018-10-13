@@ -1,0 +1,2 @@
+Practice the python with basic programming challenges:
+https://www.practicepython.org/
